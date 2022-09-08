@@ -66,8 +66,8 @@ Vue Router - [documentation](https://router.vuejs.org/)
 Animate On Scroll - [documentation](https://michalsnik.github.io/aos/)
 
 ## 🎨 Styling with
+
 Sass - [documentation](https://sass-lang.com/documentation/)
-Classnames - [classnames](https://www.npmjs.com/package/classnames)
 
 ## 👥 Contributers
 
