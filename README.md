@@ -65,6 +65,10 @@ Vue Moment - [documentation](https://github.com/brockpetrie/vue-moment)
 Vue Router - [documentation](https://router.vuejs.org/)  
 Animate On Scroll - [documentation](https://michalsnik.github.io/aos/)
 
+## 🎨 Styling with
+Sass - [documentation](https://sass-lang.com/documentation/)
+Classnames - [classnames](https://www.npmjs.com/package/classnames)
+
 ## 👥 Contributers
 
 Bastien Paquier - [bastien17-dev](https://github.com/bastien17-dev)  
