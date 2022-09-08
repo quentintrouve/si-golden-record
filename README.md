@@ -26,7 +26,7 @@ git clone $url
 ```
 
 ```
-cd WebDocVuejs
+cd si-golden-record
 ```
 
 ```
