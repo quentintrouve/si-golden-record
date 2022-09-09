@@ -6,7 +6,7 @@ This site has been created for educational purposes as part of the Bachelor's cu
 
 ## 🛰️ Project Overview
 <p align="center">
-  <img src="screenshot.gif">
+  <img src="screenshot.png">
 </p>
 
 **The Golden Record - Web Documentary** is a web experience on the most ambitious message sent into space. A gold-platted disk supposed to gives a better chance for future extraterrestrial intelligence life visitors to find out that we exist or once existed.
